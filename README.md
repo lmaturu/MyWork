@@ -1,4 +1,0 @@
-MyWork
-======
-
-My work
